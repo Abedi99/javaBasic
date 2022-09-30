@@ -1,0 +1,4 @@
+type casting 
+type casting is converting the type of data from to anther data
+we have two type of type casting 1st Explicit/narrowing/manual 2nd implicct/automatic
+when we go from a bigger data type to a smaller ome it is called  Explicit/narrowing/manual
